@@ -42,3 +42,7 @@ Start the server
 - Server:  Node, Express
 
 - DataBase: MongoDB
+
+##Sanpshot
+
+![2021-10-05-15-22-05](https://user-images.githubusercontent.com/77036158/136001215-e79b0e34-e197-47eb-800a-cf4da64513b4.png)
