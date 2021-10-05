@@ -1,7 +1,12 @@
 import "./App.css";
+import Routes from "./Routes/Routes";
 
 function App() {
-  return <div></div>;
+  return (
+    <div>
+      <Routes />
+    </div>
+  );
 }
 
 export default App;

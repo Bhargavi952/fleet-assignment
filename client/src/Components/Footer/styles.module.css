@@ -1,0 +1,33 @@
+.footer_cont {
+    width: 100%;
+    background-color: #000000;
+    height: inherit;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer_description {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+
+.footer_description>div>h4 {
+    color: #717272;
+}
+
+.footer_description>div>p {
+    color: #bac5c0;
+}
+
+.footer_description>div>p:hover {
+    color: #11bf71
+}
+
+@media screen and (max-width:420px) {
+    .footer_cont {
+        font-size: 12px;
+    }
+}
